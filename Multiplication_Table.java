@@ -1,3 +1,5 @@
+/*  Program to print the multiplication table upto a limit*/
+
 import java.util.Scanner;
 public class Multiplication_Table {
 	public static void main(String[] args) {
