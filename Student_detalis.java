@@ -1,3 +1,4 @@
+/* A Program to Display the marks and details of two Student */
 class student{
 	String name;
 	int roll_no;
