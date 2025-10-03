@@ -1,3 +1,5 @@
+"""Description : A Simple Program Illustating the use of Constructor with "this" Keyword. Here While running without "this" operator will result different values for 'a' and 'b' ."""
+
 class Sample{
     int a=10, b=20;
     Sample(int a,int b){
@@ -17,3 +19,4 @@ public class constructor {
 
     }
 }
+
